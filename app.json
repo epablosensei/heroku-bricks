@@ -1,0 +1,20 @@
+{
+  "name": "OWASP Bricks on Heroku",
+  "description": "Bricks is a web application security learning platform built on PHP and MySQL. The project focuses on variations of commonly seen application security issues. Each 'Brick' has some sort of security issue which can be leveraged manually or using automated software tools. The mission is to 'Break the Bricks' and thus learn the various aspects of web application security.",
+  "repository": "",
+  "website": "https://sechow.com/bricks/index.html",
+  "addons": [],
+  "keywords": [
+    "web security",
+    "web application security",
+    "webappsec",
+    "owasp",
+    "pentest",
+    "pentesting",
+    "security",
+    "vulnerable",
+    "vulnerability",
+    "broken",
+    "bodgeit"
+  ]
+}
